@@ -1,0 +1,3 @@
+A docker image from phusion/baseimage and use aliyun's apt source.
+
+`docker pull zfben/baseimage`
