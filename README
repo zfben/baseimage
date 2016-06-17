@@ -1,3 +1,10 @@
 A docker image from phusion/baseimage and use aliyun's apt source.
 
+## How to use?
+
     docker pull zfben/baseimage
+
+## What included?
+
+  * Ruby
+  * Node.js
