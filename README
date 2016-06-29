@@ -1,4 +1,4 @@
-A docker image from phusion/baseimage and use aliyun's apt source.
+A docker baseimage from apline.
 
 ## How to use?
 
@@ -6,5 +6,7 @@ A docker image from phusion/baseimage and use aliyun's apt source.
 
 ## What included?
 
-  * Ruby
-  * Node.js
+* Ruby
+* Node.js
+* Postgresql
+* Redis
